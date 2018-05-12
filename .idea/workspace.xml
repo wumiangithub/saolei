@@ -14,15 +14,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="saolei.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="saolei.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/saolei.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="682" column="24" selection-start-line="682" selection-start-column="24" selection-end-line="682" selection-end-column="24" />
+            <state relative-caret-position="155">
+              <caret line="589" column="31" lean-forward="true" selection-start-line="589" selection-start-column="31" selection-end-line="589" selection-end-column="31" />
               <folding>
                 <element signature="n#script#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-                <element signature="n#style#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
@@ -31,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="materialize.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="materialize.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/materialize/css/materialize.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="2" column="29771" selection-start-line="2" selection-start-column="29771" selection-end-line="2" selection-end-column="29771" />
+            <state relative-caret-position="86">
+              <caret line="2" column="100891" selection-start-line="2" selection-start-column="100891" selection-end-line="2" selection-end-column="100891" />
             </state>
           </provider>
         </entry>
@@ -52,14 +51,21 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>pop</find>
       <find>top</find>
       <find>*:after</find>
-      <find>header</find>
       <find>input[type=text]</find>
       <find>9e9e9e</find>
       <find>*:before,*:after</find>
+      <find>header</find>
+      <find>#26a69a</find>
+      <find>#4caf50</find>
+      <find>#2bbbad</find>
+      <find>pop</find>
     </findStrings>
+    <replaceStrings>
+      <replace>#3bbbad</replace>
+      <replace>#6fd9f0</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,10 +74,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/assets/materialize.css" />
-        <option value="$PROJECT_DIR$/saolei.html" />
         <option value="$PROJECT_DIR$/assets/js/saolei.js" />
-        <option value="$PROJECT_DIR$/materialize/css/materialize.css" />
         <option value="$PROJECT_DIR$/turnTableIndex.html" />
+        <option value="$PROJECT_DIR$/saolei.html" />
+        <option value="$PROJECT_DIR$/materialize/css/materialize.css" />
       </list>
     </option>
   </component>
@@ -82,7 +88,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-14" />
+    <option name="x" value="-16" />
     <option name="y" value="23" />
     <option name="width" value="1277" />
     <option name="height" value="777" />
@@ -268,17 +274,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526125783769</updated>
-      <workItem from="1526125785403" duration="7443000" />
+      <workItem from="1526125785403" duration="8037000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7443000" />
+    <option name="totallyTimeSpent" value="8037000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-14" y="23" width="1277" height="777" extended-state="0" />
+    <frame x="-16" y="23" width="1277" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19665605" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19665605" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -286,7 +293,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="CSS-X-Fire" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.38235295" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.38235295" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -357,25 +364,24 @@
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/materialize/css/materialize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="2" column="29771" selection-start-line="2" selection-start-column="29771" selection-end-line="2" selection-end-column="29771" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/saolei.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="682" column="24" selection-start-line="682" selection-start-column="24" selection-end-line="682" selection-end-column="24" />
+        <state relative-caret-position="155">
+          <caret line="589" column="31" lean-forward="true" selection-start-line="589" selection-start-column="31" selection-end-line="589" selection-end-column="31" />
           <folding>
             <element signature="n#script#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-            <element signature="n#style#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materialize/css/materialize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="2" column="100891" selection-start-line="2" selection-start-column="100891" selection-end-line="2" selection-end-column="100891" />
         </state>
       </provider>
     </entry>
